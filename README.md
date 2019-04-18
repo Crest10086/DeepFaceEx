@@ -21,4 +21,4 @@ DeepFaceEx是一个与DeepFaceLab配合使用的插件
 
 ### 往下拖动，当大部分人脸都不是黑寡妇时，删除所有图片
 
-### 再用DeepFaceLab本身的sort by similar histogram功能，快速删除其他人的照片
+### 再用DeepFaceLab本身的sort by similar histogram排序一次，快速删除黑寡妇之外的照片
