@@ -20,5 +20,6 @@ DeepFaceEx是一个与DeepFaceLab配合使用的插件
 ![](https://github.com/dotapuppy/DeepFaceEx/blob/master/Images/sorted.png)
 
 ### 往下拖动，当大部分人脸都不是黑寡妇时，删除所有图片
+![](https://github.com/dotapuppy/DeepFaceEx/blob/master/Images/sorted.png)
 
-### 再用DeepFaceLab本身的sort by similar histogram排序一次，快速删除黑寡妇之外的照片
+    手动删除不需要的人脸。此时也可以用DeepFaceLab里其他脚本，例如sort by similar histogram等，可以加快手动操作的速度。
