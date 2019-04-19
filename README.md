@@ -4,7 +4,9 @@ DeepFaceEx是一个与DeepFaceLab配合使用的插件
 ## 安装
 
 所有文件复制到DeepFaceLab目录下即可，如下图所示：
+![](https://github.com/dotapuppy/DeepFaceEx/blob/master/Images/setup.png)
 
+如果无法运行，请安装.net framework 2.0
 
 ### 根据人脸相似度排序
 
