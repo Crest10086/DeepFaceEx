@@ -28,3 +28,7 @@ DeepFaceEx是一个与DeepFaceLab配合使用的插件
 ![](https://github.com/dotapuppy/DeepFaceEx/blob/master/Images/sorted_1.png)
 
     5.手动删除不需要的人脸。此时也可以借助DeepFaceLab里其他脚本来处理，例如sort by similar histogram等，加快手动操作的效率。
+
+### 精确标注人脸
+
+开发中，使用更好的人脸标注算法，替代开源的人脸标注算法，争取达到在大多数情况下不再需要手动标注人脸。
