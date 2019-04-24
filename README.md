@@ -3,8 +3,11 @@ DeepFaceEx是一个与DeepFaceLab配合使用的插件
 
 ## 安装
 
-所有文件复制到DeepFaceLab目录下即可，如下图所示：
+下载后，在DeepFaceLab目录下解压
 ![](https://github.com/dotapuppy/DeepFaceEx/blob/master/Images/setup.png)
+
+进入解压目录运行，第一次运行会自动执行安装步骤，安装完毕后，返回DeepFaceLab目录下，运行DeepFaceEx.exe即可
+![](https://github.com/dotapuppy/DeepFaceEx/blob/master/Images/run.png)
 
 如果无法运行，请安装.net framework 2.0
 
